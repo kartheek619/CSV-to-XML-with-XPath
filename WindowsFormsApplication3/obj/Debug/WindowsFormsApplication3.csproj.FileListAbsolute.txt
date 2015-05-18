@@ -1,0 +1,9 @@
+c:\users\kartheek\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\kartheek\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\kartheek\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\kartheek\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\kartheek\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\kartheek\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\kartheek\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+c:\users\kartheek\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Week2Question.MainForm.resources
+c:\users\kartheek\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Week2Question.Properties.Resources.resources
